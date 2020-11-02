@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Random;
 
-public class ForthDay {
+public class Practice6_4 {
     public static void main(String[] args) {
         Scanner stdIn = new Scanner(System.in);
         Random rand = new Random();
