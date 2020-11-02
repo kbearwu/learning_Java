@@ -20,6 +20,6 @@ class Practice6_5 {
             }
 
         }
-        System.out.print("}");
+        System.out.print("}");   //应有结果： a = {x,y,z,...}
     }
 }
