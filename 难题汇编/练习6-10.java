@@ -2,7 +2,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 
-class Practice6-10 {
+class Practice6_10 {
     public static void main(String[] args) {
         Scanner stdIn = new Scanner(System.in);
         Random rand = new Random();
