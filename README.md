@@ -1,3 +1,3 @@
-# learning_Java
+# 明解Java 练习题集合
 记录我的Java学习，
 坚决不半途而废！
